@@ -47,7 +47,7 @@ function Home(){
             <br/>
             <h1>Our team </h1>
             <HomeCard arr={trainers}/>
-            <h1>Our equipment</h1>
+            <h1>Our equipments</h1>
             <HomeCard arr={equipments}/>
             <br/>
 
